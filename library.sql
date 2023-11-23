@@ -205,7 +205,7 @@ INSERT INTO `student` (`first`, `last`, `username`, `password`, `roll`, `email`,
 ('Sumaiya', 'Shimu', 'Shimu1', '987654', 1510052, 'shimu1@gmail.com', '1739000000', 'p.jpg'),
 ('Suchana', 'Pramanik', 'Suchana', '121212', 1510047, 'suchana@gmail.com', '1739000000', 'p.jpg'),
 ('Afifa ', 'Ashraf', 'Afifa', '121212', 1510047, 'afifa@gmail.com', '1739000001', 'p.jpg'),
-('hemanithin', 'K.S', 'nithin', '123456', 192110426, 'hemanithinks2003@gmail.com', '8608100249', 'p.jpg');
+('ravi', 'm', 'ravi', '123456', 154856, 'ravi3@gmail.com', '172766998', 'p.jpg');
 
 --
 -- Indexes for dumped tables
